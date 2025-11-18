@@ -12,3 +12,4 @@ Key features include:
 
 
 this is the new part in the readme section
+![Alt text](images/test.png)
