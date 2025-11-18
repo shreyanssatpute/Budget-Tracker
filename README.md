@@ -9,3 +9,6 @@ Key features include:
 -Set and track a "Savings Goal" with a pie chart representation.
 -User-friendly and interactive design.
 -Local data storage ensures data persistence even after page refresh.
+
+
+this is the new part in the readme section
